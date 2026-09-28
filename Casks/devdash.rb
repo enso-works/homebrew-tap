@@ -13,7 +13,7 @@ cask "devdash" do
   end
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "DevDash.app"
   binary "#{appdir}/DevDash.app/Contents/Resources/bin/devdash"
