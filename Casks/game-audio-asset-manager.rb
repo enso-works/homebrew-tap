@@ -1,6 +1,6 @@
 cask "game-audio-asset-manager" do
   version "0.1.0"
-  sha256 "bf832f2a099ce8677ad2d2f2a00534b77db54c7e9f2d97cbc9b441f6e4d1419b"
+  sha256 "fdeebc58133488645d236a71bdccdec0886b5dbaf531d77d6e84068c38b19b04"
 
   url "https://github.com/enso-works/game-audio-asset-manager/releases/download/v#{version}/GameAudioAssetManager-#{version}-macos.dmg"
   name "Game Audio Asset Manager"
