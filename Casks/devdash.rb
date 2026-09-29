@@ -1,6 +1,6 @@
 cask "devdash" do
-  version "0.2.0"
-  sha256 "0a6c1c679358c8f3cfde0d69e1fe25a7daf1466aa39d93a3637fb3a8c587ec8f"
+  version "0.3.0"
+  sha256 "cba6d97686c8ad09de59abd56572bece21f0555f53dd4951415ffaa54062be6e"
 
   url "https://github.com/enso-works/devdash/releases/download/v#{version}/DevDash-#{version}-macos.dmg"
   name "DevDash"
